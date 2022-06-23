@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-
 <head>
   <meta charset="utf-8">
   <title>Titilayo Olayinka Olugidan Resume</title>
 </head>
-
 <body>
   <table cellspacing ="50">
     <td><img src="Ola1.png.jpg" alt="Titilayo Olayinka Olugidan's Picture"></td>
@@ -135,7 +133,5 @@
   </ul>
   <hr>
   <a href="Contact.html">Contact Details</a>
-
 </body>
-
 </html>
